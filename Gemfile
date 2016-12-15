@@ -27,7 +27,7 @@ gem 'devise', '~> 4.2.0'
 gem 'paperclip', '~> 5.1.0' 
 gem 'aws-sdk', '~> 2.6.29'
 gem 'masonry-rails', '~> 0.2.4'
-gem 'jquery-turbolinks'
+gem 'jquery-turbolinks', '~> 2.1'
 gem 'will_paginate', '~> 3.1', '>= 3.1.5'
 gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 

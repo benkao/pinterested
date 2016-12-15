@@ -193,7 +193,7 @@ DEPENDENCIES
   devise (~> 4.2.0)
   jbuilder (~> 2.0)
   jquery-rails
-  jquery-turbolinks
+  jquery-turbolinks (~> 2.1)
   masonry-rails (~> 0.2.4)
   paperclip (~> 5.1.0)
   pg (= 0.19)
